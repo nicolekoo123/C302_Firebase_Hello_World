@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461248637118",
+    "project_id": "c302-firebase-ddd91",
+    "storage_bucket": "c302-firebase-ddd91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461248637118:android:c25f72102a76489ea616ef",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c346.id19047433.c302firebasehelloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461248637118-onb11i5n40tigv49v8tlid2vu5hccknu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkgD8mWUXItkivKehyaxN6YRnijzH7stA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461248637118-onb11i5n40tigv49v8tlid2vu5hccknu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
